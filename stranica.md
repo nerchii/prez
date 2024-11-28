@@ -9,10 +9,15 @@ Informacijske tehnologije
 
 **Krita** je moćan besplatan program za digitalno crtanje i slikanje, popularan među umjetnicima i ilustratorima. Evo glavnih značajki koje ga čine posebnim:
 
+---
+
 ## 1. Podrška za crtanje i slikanje
 - Različiti alati za slikanje (četke, olovke, markeri, teksture).
 - Realistični efekti, poput akvarela, ulja, krede i mnogih drugih.
 - Mogućnost prilagodbe i stvaranja vlastitih četki.
+
+---
+
 
 ## 2. Napredni alati za rad s slojevima
 - Podrška za slojeve i grupe slojeva.
@@ -24,6 +29,9 @@ Informacijske tehnologije
 ## 3. Jednostavno korisničko sučelje
 - Intuitivan raspored alata i prozora.
 - Docker sustav koji omogućava prilagodbu radnog prostora.
+
+---
+
 
 ## 4. Podrška za grafičke tablete
 - Kompatibilnost s različitim markama i modelima tableta.
@@ -40,13 +48,12 @@ Krita je idealan alat za digitalne umjetnike koji traže fleksibilnost i kvalite
 
 ## Uvod
 
-Krita je besplatna i open-source aplikacija za digitalno crtanje, slikanje i uređivanje grafike, dizajnirana za umetnike i profesionalce koji rade sa 2D vizuelnim sadržajem. Krita je dostupna za Windows, macOS i Linux, a njen glavni fokus je pružanje alata za ilustracije, stripove, animacije i konceptualnu umetnost.
-
+Krita je besplatna i open-source aplikacija za digitalno crtanje, slikanje i uređivanje grafike, dizajnirana za umetnike i profesionalce koji rade sa 2D vizuelnim sadržajem. Krita je dostupna za Windows, macOS i Linux.
 ---
 
 ## Pocetak
 
-Kada prvi put pokrenete Kritu, dočekat će vas početni zaslon s opcijama za stvaranje nove datoteke ili otvaranje postojećeg dokumenta. Da biste stvorili novo platno, morate kreirati novi dokument iz izbornika Datoteka ili kliknuti na Nova datoteka u odjeljku za početak na početnom zaslonu. Time će se otvoriti dijaloški okvir za novu datoteku. Ako želite otvoriti postojeću sliku, možete koristiti Datoteka ‣ Otvori... ili jednostavno povući sliku s računala u prozor programa Krita.
+Kada prvi put pokrenete Kritu, dočekat će vas početni zaslon s opcijama za stvaranje nove datoteke ili otvaranje postojećeg dokumenta. Da biste stvorili novo platno, morate kreirati novi dokument iz izbornika Datoteka ili kliknuti na Nova datoteka u odjeljku za početak na početnom zaslonu.
 
 ---
 
@@ -77,10 +84,10 @@ U Kriti, četke su jedan od najvažnijih alata za digitalno crtanje i slikanje. 
 ---
 
 ### Animiranje
-Animiranje u Kriti nudi moćne alate za stvaranje 2D animacija, čineći ga idealnim za umjetnike koji žele dodati kretanje svojim digitalnim crtežima. Krita omogućuje rad na animiranim slojevima i nudi vremensku liniju gdje se okviri mogu uređivati, pomicanjem, dupliciranjem ili mijenjanjem vremena trajanja. U programu se može koristiti tehnika frame-by-frame animacije, gdje svaki okvir crta umetnik ručno, ali također postoje alati za tweening koji olakšavaju prijelaz između okvira. Krita omogućuje i rad s simbolima koji se mogu ponavljati kroz animaciju, kao i jednostavno upravljanje brzinama animacije. Uz mogućnost izvoza u formate poput GIF-a ili MP4, Krita je odličan alat za umjetnike i animatore koji žele brzo stvarati visokokvalitetne animacije.
+Animiranje u Kriti nudi moćne alate za stvaranje 2D animacija, čineći ga idealnim za umjetnike koji žele dodati kretanje svojim digitalnim crtežima. 
 
 ---
 
 ![5](5.jpg)
 
----
+
