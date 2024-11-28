@@ -12,14 +12,15 @@ Informacijske tehnologije
 ---
 
 ## 1. Podrška za crtanje i slikanje
+
 - Različiti alati za slikanje (četke, olovke, markeri, teksture).
 - Realistični efekti, poput akvarela, ulja, krede i mnogih drugih.
 - Mogućnost prilagodbe i stvaranja vlastitih četki.
 
 ---
 
-
 ## 2. Napredni alati za rad s slojevima
+
 - Podrška za slojeve i grupe slojeva.
 - Različiti načini miješanja boja i efekata.
 - Mogućnost rada s maskama slojeva.
@@ -27,17 +28,20 @@ Informacijske tehnologije
 ---
 
 ## 3. Jednostavno korisničko sučelje
+
 - Intuitivan raspored alata i prozora.
 - Docker sustav koji omogućava prilagodbu radnog prostora.
 
 ---
 
-
 ## 4. Podrška za grafičke tablete
+
 - Kompatibilnost s različitim markama i modelima tableta.
 
 ## 5. Otvoreni izvor i zajednica
+
 - Potpuno besplatan i otvorenog koda.
+
 ---
 
 Krita je idealan alat za digitalne umjetnike koji traže fleksibilnost i kvalitetu bez troškova.
@@ -46,9 +50,8 @@ Krita je idealan alat za digitalne umjetnike koji traže fleksibilnost i kvalite
 
 ---
 
-## Uvod
-
 Krita je besplatna i open-source aplikacija za digitalno crtanje, slikanje i uređivanje grafike, dizajnirana za umetnike i profesionalce koji rade sa 2D vizuelnim sadržajem. Krita je dostupna za Windows, macOS i Linux.
+
 ---
 
 ## Pocetak
@@ -70,11 +73,13 @@ Iako se Krita primarno smatra aplikacijom koja radi s raster grafikom, posjeduje
 ---
 
 ### Dockeri
-Dockeri su mali podprozori u sučelju programa Krita. Oni sadrže korisne alate, poput birača boja, popisa slojeva, opcija alata i slično. 
+
+Dockeri su mali podprozori u sučelju programa Krita. Oni sadrže korisne alate, poput birača boja, popisa slojeva, opcija alata i slično.
 
 ---
 
 ### Cetke
+
 U Kriti, četke su jedan od najvažnijih alata za digitalno crtanje i slikanje. Program nudi širok spektar četki koje oponašaju stvarne medije poput olovke, tinte, akvarela, ulja i mnogih drugih.
 
 ---
@@ -84,10 +89,9 @@ U Kriti, četke su jedan od najvažnijih alata za digitalno crtanje i slikanje. 
 ---
 
 ### Animiranje
-Animiranje u Kriti nudi moćne alate za stvaranje 2D animacija, čineći ga idealnim za umjetnike koji žele dodati kretanje svojim digitalnim crtežima. 
+
+Animiranje u Kriti nudi moćne alate za stvaranje 2D animacija, čineći ga idealnim za umjetnike koji žele dodati kretanje svojim digitalnim crtežima.
 
 ---
 
 ![5](5.jpg)
-
-
